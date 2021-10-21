@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "library/**/*.jar",
+            "/home/username/lib/foo.jar",
+            "/lesson-2/lib/foo.jar"
+        ],
+        "exclude": [
+            "library/sources/**"
+        ],
+        "sources": {
+            "library/bar.jar": "library/sources/bar-src.jar"
+        }
+    }
+}

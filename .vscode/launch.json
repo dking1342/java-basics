@@ -1,0 +1,36 @@
+{
+"version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Path",
+            "request": "launch",
+            "sourcePaths": [
+              ".",
+              "${fileDirname}"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "lesson-2.src.App",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Route",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "lesson-2.src.App",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
