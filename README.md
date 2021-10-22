@@ -27,3 +27,6 @@ This repository will go through Java basics. Each branch will have a lesson that
 
 ### Lesson 8
 -- Logical operators
+
+### Lesson 9
+-- Loops
