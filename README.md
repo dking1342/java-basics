@@ -33,3 +33,6 @@ This repository will go through Java basics. Each branch will have a lesson that
 
 ### Lesson 10
 -- Arrays
+
+### Lesson 11
+-- String methods
