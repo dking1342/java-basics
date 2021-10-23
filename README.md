@@ -36,3 +36,12 @@ This repository will go through Java basics. Each branch will have a lesson that
 
 ### Lesson 11
 -- String methods
+
+### Lesson 12
+-- Wrapper class
+
+### Lesson 13
+-- ArrayList
+
+### Lesson 14
+-- Methods (within classes)
