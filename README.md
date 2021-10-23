@@ -1,0 +1,26 @@
+# Lesson 11
+
+## Getting started
+To make a project use the following:
+
+```
+shift + command + P
+Java: Create Java Project
+```
+
+You will select a folder to house your project then VSCode will generate a project there.
+
+The project will have a class that contains everything. The class is generally named the same as the file name such as App.java
+
+Within the class you will have a main class that will be needed for Java to run this program. This is necessary and the file will not run unless it has it. The completed first classes look like this:
+
+```
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+## String methods
+Strings are a data type within Java. They are for a group of characters. They can be a reference data type that can store one or more characters. Java has built in methods that can be used with strings that can allow you to work with strings for your intended purpose. For more on string methods in Java <a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html">click here</a>
