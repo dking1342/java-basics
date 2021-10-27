@@ -48,3 +48,76 @@ This repository will go through Java basics. Each branch will have a lesson that
 
 ### Lesson 15
 -- Overloading / Overload methods
+
+### Lesson 16
+-- printf method
+
+### Lesson 17
+-- final keyword
+
+### Lesson 18
+-- Object oriented programming starter
+-- Constructor
+
+### Lesson 19
+-- Local and global variables
+
+### Lesson 20
+-- Practice using overloading
+
+### Lesson 21
+-- toString method
+
+### Lesson 22
+-- Create an array with a constructor
+
+### Lesson 23
+-- How to pass objects as a parameter
+
+### Lesson 24
+-- Static keyword in methods/classes
+
+### Lesson 25
+-- Inheritance
+
+### Lesson 26
+-- Method overriding
+
+### Lesson 27
+-- Super keyword
+
+### Lesson 28
+-- Abstract keyword
+
+### Lesson 29
+-- Access modifiers
+
+### Lesson 30
+-- Encapsulation
+
+### Lesson 31
+-- Copying objects
+
+### Lesson 32
+-- Interface
+
+### Lesson 33
+-- Polymorphism
+
+### Lesson 34
+-- Dynamic polymorphism
+
+### Lesson 35
+-- Exceptions
+
+### Lesson 36
+-- File class
+
+### Lesson 37
+-- File writer
+
+### Lesson 38
+-- File reader
+
+### Lesson 39
+-- Audiosystem class
