@@ -121,3 +121,29 @@ This repository will go through Java basics. Each branch will have a lesson that
 
 ### Lesson 39
 -- Audiosystem class
+
+### Lesson 40
+-- JFrame
+-- JLabel
+-- JPanels
+-- JButton
+-- Layout Manager
+-- Border Layout
+-- Flow Layout
+-- Grid Layout
+
+### Lesson 41
+-- Generics
+
+### Lesson 42
+-- Imperative programming vs Declarative approach
+
+### Lesson 43
+-- Java Util Function Package
+
+### Lesson 44
+-- Custom functions
+-- Chaining functions together
+-- Bifunctions
+-- Consumer
+-- Predicates
