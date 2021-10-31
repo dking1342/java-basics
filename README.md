@@ -123,14 +123,14 @@ This repository will go through Java basics. Each branch will have a lesson that
 -- Audiosystem class
 
 ### Lesson 40
--- JFrame
--- JLabel
--- JPanels
--- JButton
--- Layout Manager
--- Border Layout
--- Flow Layout
--- Grid Layout
+-- JFrame </br>
+-- JLabel </br>
+-- JPanels </br>
+-- JButton </br>
+-- Layout Manager </br>
+-- Border Layout </br>
+-- Flow Layout </br>
+-- Grid Layout </br>
 
 ### Lesson 41
 -- Generics
@@ -142,8 +142,8 @@ This repository will go through Java basics. Each branch will have a lesson that
 -- Java Util Function Package
 
 ### Lesson 44
--- Custom functions
--- Chaining functions together
--- Bifunctions
--- Consumer
--- Predicates
+-- Custom functions </br>
+-- Chaining functions together </br>
+-- Bifunctions </br>
+-- Consumer </br>
+-- Predicates </br>
