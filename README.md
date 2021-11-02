@@ -147,3 +147,19 @@ This repository will go through Java basics. Each branch will have a lesson that
 -- Bifunctions </br>
 -- Consumer </br>
 -- Predicates </br>
+
+### Lesson 45
+-- Streams
+
+### Lesson 46
+-- Optionals </br>
+-- Combinators </br>
+-- Lambdas </br>
+
+### Rules for Functional Programming
+-- No state </br>
+-- Pure functions </br>
+-- No side effects </br>
+-- Higher Order functions </br>
+---- The function takes one or more functions as parameters
+---- The function returns another function as a result.
